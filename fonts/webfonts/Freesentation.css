@@ -2,61 +2,61 @@
     font-family: "Freesentation";
     font-weight: 100;
 
-    src: local("Freesentation 1Thin"), local("Freesentation"), url("./woff2/Freesentation-1Thin.woff2") format("woff2"), url("./woff2/Freesentation-1Thin.woff2") format("woff");
+    src: local("Freesentation 1Thin"), local("Freesentation"), url("./woff2/Freesentation-1Thin.woff2") format("woff2"), url("./woff/Freesentation-1Thin.woff") format("woff"), url("./truetype/Freesentation-1Thin.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Freesentation";
     font-weight: 200;
 
-    src: local("Freesentation 2ExtraLight"), local("Freesentation"), url("./woff2/Freesentation-2ExtraLight.woff2") format("woff2"), url("./woff2/Freesentation-2ExtraLight.woff2") format("woff");
+    src: local("Freesentation 2ExtraLight"), local("Freesentation"), url("./woff2/Freesentation-2ExtraLight.woff2") format("woff2"), url("./woff/Freesentation-2ExtraLight.woff") format("woff"), url("./truetype/Freesentation-2ExtraLight.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Freesentation";
     font-weight: 300;
 
-    src: local("Freesentation 3Light"), local("Freesentation"), url("./woff2/Freesentation-3Light.woff2") format("woff2"), url("./woff2/Freesentation-3Light.woff2") format("woff");
+    src: local("Freesentation 3Light"), local("Freesentation"), url("./woff2/Freesentation-3Light.woff2") format("woff2"), url("./woff/Freesentation-3Light.woff") format("woff"), url("./truetype/Freesentation-3Light.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Freesentation";
     font-weight: 400;
 
-    src: local("Freesentation 4Regular"), local("Freesentation"), url("./woff2/Freesentation-4Regular.woff2") format("woff2"), url("./woff2/Freesentation-4Regular.woff2") format("woff");
+    src: local("Freesentation 4Regular"), local("Freesentation"), url("./woff2/Freesentation-4Regular.woff2") format("woff2"), url("./woff/Freesentation-4Regular.woff") format("woff"), url("./truetype/Freesentation-4Regular.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Freesentation";
     font-weight: 500;
 
-    src: local("Freesentation 5Medium"), local("Freesentation"), url("./woff2/Freesentation-5Medium.woff2") format("woff2"), url("./woff2/Freesentation-5Medium.woff2") format("woff");
+    src: local("Freesentation 5Medium"), local("Freesentation"), url("./woff2/Freesentation-5Medium.woff2") format("woff2"), url("./woff/Freesentation-5Medium.woff") format("woff"), url("./truetype/Freesentation-5Medium.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Freesentation";
     font-weight: 600;
 
-    src: local("Freesentation 6SemiBold"), local("Freesentation"), url("./woff2/Freesentation-6SemiBold.woff2") format("woff2"), url("./woff2/Freesentation-6SemiBold.woff2") format("woff");
+    src: local("Freesentation 6SemiBold"), local("Freesentation"), url("./woff2/Freesentation-6SemiBold.woff2") format("woff2"), url("./woff/Freesentation-6SemiBold.woff") format("woff"), url("./truetype/Freesentation-6SemiBold.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Freesentation";
     font-weight: 700;
 
-    src: local("Freesentation 7Bold"), local("Freesentation"), url("./woff2/Freesentation-7Bold.woff2") format("woff2"), url("./woff2/Freesentation-7Bold.woff2") format("woff");
+    src: local("Freesentation 7Bold"), local("Freesentation"), url("./woff2/Freesentation-7Bold.woff2") format("woff2"), url("./woff/Freesentation-7Bold.woff") format("woff"), url("./truetype/Freesentation-7Bold.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Freesentation";
     font-weight: 800;
 
-    src: local("Freesentation 8ExtraBold"), local("Freesentation"), url("./woff2/Freesentation-8ExtraBold.woff2") format("woff2"), url("./woff2/Freesentation-8ExtraBold.woff2") format("woff");
+    src: local("Freesentation 8ExtraBold"), local("Freesentation"), url("./woff2/Freesentation-8ExtraBold.woff2") format("woff2"), url("./woff/Freesentation-8ExtraBold.woff") format("woff"), url("./truetype/Freesentation-8ExtraBold.ttf") format("truetype");
 }
 
 @font-face {
     font-family: "Freesentation";
     font-weight: 900;
 
-    src: local("Freesentation 9Black"), local("Freesentation"), url("./woff2/Freesentation-9Black.woff2") format("woff2"), url("./woff2/Freesentation-9Black.woff2") format("woff");
+    src: local("Freesentation 9Black"), local("Freesentation"), url("./woff2/Freesentation-9Black.woff2") format("woff2"), url("./woff/Freesentation-9Black.woff") format("woff"), url("./truetype/Freesentation-9Black.ttf") format("truetype");
 }

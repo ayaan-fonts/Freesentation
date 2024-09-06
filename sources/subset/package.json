@@ -1,0 +1,21 @@
+{
+  "name": "subset-utils",
+  "version": "1.0.0",
+  "author": "Ayaan_ <minsu_kim@bishanoi.net>",
+  "private": true,
+  "main": "dist/subset.js",
+  "scripts": {
+    "subset": "pnpm run build && node dist/subset.js",
+    "build": "tsup subset.ts subset-utils.ts"
+  },
+  "dependencies": {
+    "font-range": "^1.0.2",
+    "tslib": "^2.7.0"
+  },
+  "devDependencies": {
+    "@swc/core": "^1.7.23",
+    "@types/node": "^22.5.4",
+    "tsup": "^8.2.4",
+    "typescript": "^5.5.4"
+  }
+}

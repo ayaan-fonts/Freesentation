@@ -1,0 +1,7 @@
+appdirs~=1.4.4
+six~=1.16.0
+fs~=2.4.16
+pytz~=2023.3.post1
+fonttools~=4.44.0
+Brotli~=1.1.0
+zopfli~=0.2.3
