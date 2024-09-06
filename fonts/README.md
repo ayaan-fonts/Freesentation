@@ -10,13 +10,13 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@1.x/fonts/webfonts/Freesentation.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.x/fonts/webfonts/Freesentation.css" />
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation/fonts/webfonts/Freesentation.css");
+@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.x/fonts/webfonts/Freesentation.css");
 ```
 
 ---
@@ -28,13 +28,13 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@1.x/fonts/webfonts/Freesentation-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.x/fonts/webfonts/Freesentation-dynamic-subset.css" />
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation/fonts/webfonts/Freesentation-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.x/fonts/webfonts/Freesentation-dynamic-subset.css");
 ```
 
 ---
@@ -48,11 +48,11 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@1.x/fonts/webfonts/Freesentation-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.x/fonts/webfonts/Freesentation-dynamic-subset.css" />
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation/fonts/webfonts/Freesentation-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.x/fonts/webfonts/Freesentation-dynamic-subset.css");
 ```
