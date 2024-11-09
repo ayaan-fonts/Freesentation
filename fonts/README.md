@@ -28,13 +28,13 @@
 #### HTML
 
 ```html
-<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.004/fonts/webfonts/Freesentation-dynamic-subset.css" />
+<link rel="stylesheet" as="style" crossorigin href="https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.004/fonts/webfonts/Freesentation-subset.css" />
 ```
 
 #### CSS
 
 ```css
-@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.004/fonts/webfonts/Freesentation-dynamic-subset.css");
+@import url("https://cdn.jsdelivr.net/gh/ayaan-fonts/Freesentation@v1.004/fonts/webfonts/Freesentation-subset.css");
 ```
 
 ---
